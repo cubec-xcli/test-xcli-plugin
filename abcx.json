@@ -1,0 +1,5 @@
+{
+  "plugin-name" : "test-xcli-plugin",
+  "plugin-version": "0.0.1",
+  "plugin-package": "npm"
+}
