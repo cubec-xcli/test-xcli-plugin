@@ -4,7 +4,8 @@ module.exports = function(context, args){
   //   - context.projectName
   //   - context.projectRoot -> context.utils.paths.currentPath
 
-  const { std } = context.utils;
-
-  std.warn("implement [xcli init]");
+  return {
+    initdemo1: "cubec-xcli/test-xcli-plugin",
+    initdemo2: "cubec-xcli/test-xcli-plugin",
+  };
 };
